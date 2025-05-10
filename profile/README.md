@@ -1,12 +1,11 @@
-## Hi there 👋
+<img width="800" alt="GitHub Banner" src="https://github.com/user-attachments/assets/675f4f40-c5b7-429d-8654-c18376774128" />
 
-<!--
+# 💪 BawsHuman Developer Experience 
 
-**Here are some ideas to get you started:**
+BawsHuman is building a global fitness and coaching platform that empowers anyone to improve their health through personalized programs, gamified challenges, and human connection. Our goal is to unify the fragmented fitness world—across devices, disciplines, and borders—into one platform where health, performance, and community come together for real-world transformation.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Open Source
+
+BawsHuman contributes to the open source software movement as part of our human connection and community mission.
+
+* [Hacktoolkit](https://github.com/hacktoolkit), a collection of bootstrap code that you can use to start your next project, whether it’s a website or mobile app.
